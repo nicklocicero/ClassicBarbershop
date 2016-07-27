@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme.-->
+    <style name="CustomText" parent="@style/Text">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <color name="blue">#3F51B5</color>
+    <color name="red">#303F9F</color>
+    <color name="orange">#FF4081</color>
+</resources>

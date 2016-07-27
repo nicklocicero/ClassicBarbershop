@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Classic Barbershop</string>
+    <string name="slogan">More than just a haircut!</string>
+    <string name="email">Email: classicbarbershop@gmail.com</string>
+    <string name="phone">213-332-2512</string>
+    <string name="description">Classic Barbershop in Hollywood, CA brings you the best barber
+        services from beard trims, face shaves, line ups/shape ups, head wash or a haircuts.</string>
+    <string name="facebook">\@ClassicLosAngeles</string>
+</resources>
